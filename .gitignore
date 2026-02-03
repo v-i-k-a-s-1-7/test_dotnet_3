@@ -60,6 +60,9 @@ nunit-*.xml
 .vs/
 .vscode/
 
+<<<<<<< HEAD
 .vs/
 bin/
 obj/
+=======
+>>>>>>> c38c169 (Updated some Programs)

@@ -28,9 +28,12 @@ namespace test_dotnet_3
             NetSalary = netSalary;
         }
 
+<<<<<<< HEAD:PaySlip.cs
         public List<PaySlip> GetPaySlips()
         {
             return paySlips;
         }
+=======
+>>>>>>> c38c169 (Updated some Programs):test_dotnet_3/PaySlip.cs
     }
 }
